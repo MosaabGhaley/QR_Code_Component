@@ -30,8 +30,8 @@ This marks my first project in Frontend Mentor, and despite it not being a major
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution Repo URL: [Here](https://github.com/MosaabGhaley/QR_Code_Component)
+- Live Solution URL: [Here](https://mosaabghaley.github.io/QR_Code_Component/)
 
 ## My process
 

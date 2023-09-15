@@ -1,0 +1,43 @@
+/* Start Global Rules */
+body {
+    background-color: #d5e1ee;
+    font-family: 'Outfit', sans-serif;
+}
+
+/* End Global Rules */
+
+/* Start Card Background */
+.card-background {
+    margin: 200px auto;
+    background-color: white;
+    height: 470px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.card-background img {
+    /* margin: 37.5px 37.5px; */
+    padding: 15px 15px;
+    width: 90%;
+    border-radius: 25px;
+}
+
+.card-background h3 {
+    margin: 0;
+    padding-left: 25px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    width: 250px;
+}
+
+.card-background p {
+    padding-left: 25px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+    width: 250px;
+    color: #a0a7b0;
+}
+
+/* End Card Background */
